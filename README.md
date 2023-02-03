@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafa
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning advances in data analysis
+- 🌱 I’m a data analyst
 - 💞️ I’m looking to collaborate on analytics
 - 📫 How to reach me rafa.ksd@gmail.com
 
